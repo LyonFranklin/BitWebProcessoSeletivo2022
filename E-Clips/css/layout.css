@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa&family=Poppins:wght@100;300;400;500;600&display=swap");
+/* reset css*/
+nav a:hover{
+    background-color: brown;
+    height: auto;
+    width: auto;
+}
+.section{
+    margin-top: 5px;
+}
+/* HOME*/
+.home_texto{
+   position: relative;
+}
+/* CONHECA */
+.botaoC{
+    background-color: blue;
+}
+/* PRODUTOS */
+
+/* SERVIÇOS */
+
+
+
+/* CONTATO */
+.contato{
+    background-color: rgb(197, 197, 197);
+    margin-top: 3px;
+}
+/* FOOTER */
+footer{
+    background-color: rgb(43, 67, 226);
+}
+footer a:hover{
+    background-color: brown;
+}
+
+.direitos{
+    background-color: rgb(71, 71, 71);
+}
